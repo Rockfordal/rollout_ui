@@ -1,3 +1,6 @@
+Rockfordal fork: just trying to fix some bugs
+
+
 RolloutUI: A slick way to rollout features in your web app.
 ==========================================================
 
