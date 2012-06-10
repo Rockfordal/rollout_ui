@@ -4,6 +4,7 @@ module RolloutUi
 
     def index
       @features = @wrapper.features.map{ |feature| RolloutUi::Feature.new(feature) }
+      render :index, layout: 'rollout_ui/application'
     end
 
     def update
